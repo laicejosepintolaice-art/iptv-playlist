@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVM" tvg-name="TVM" tvg-logo="https://www.tvm.co.mz/img/logo.png" group-title="Moçambique",TVM
+http://example.com/tvm
+
+#EXTINF:-1 tvg-id="STV" tvg-name="STV" tvg-logo="https://www.stv.co.mz/img/logo.png" group-title="Moçambique",STV
+http://example.com/stv
+
+#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://www.vtv.co.mz/img/logo.png" group-title="Moçambique",VTV
+http://example.com/vtv
+
+#EXTINF:-1 tvg-id="MIX" tvg-name="MIX" tvg-logo="https://www.mixchannel.co.mz/img/logo.png" group-title="Moçambique",MIX
+http://example.com/mix
+
+#EXTINF:-1 tvg-id="AIM" tvg-name="AIM" tvg-logo="https://www.aim.co.mz/img/logo.png" group-title="Moçambique",AIM
+http://example.com/aim
+
+#EXTINF:-1 tvg-id="CANAL1" tvg-name="Canal 1" tvg-logo="https://www.canal1.co.mz/img/logo.png" group-title="Moçambique",Canal 1
+http://example.com/canal1
+
+#EXTINF:-1 tvg-id="MEGAFM" tvg-name="Mega FM TV" tvg-logo="https://www.megafm.co.mz/img/logo.png" group-title="Moçambique",Mega FM TV
+http://example.com/megafm
